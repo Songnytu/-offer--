@@ -91,3 +91,7 @@
 
 
 [六十.n个骰子的点数](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test60.java)
+
+[六十一.扑克牌顺子](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test61.java)
+
+[六十二.圆圈中最后剩下的数](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test62.java)
