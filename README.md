@@ -89,6 +89,8 @@
 
 [五十.第一个只出现一次的字符位置](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer6/test50.java)
 
+[五十一.数组中的逆序对](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer6/test51.java)
+
 
 [六十.n个骰子的点数](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test60.java)
 
