@@ -93,6 +93,8 @@
 
 [五十二.两个链表的第一个公共节点](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer6/test52.java)
 
+[五十三.数字在排序数组中出现的次数](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer6/test53.java)
+
 
 [六十.n个骰子的点数](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test60.java)
 
