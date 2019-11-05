@@ -113,3 +113,5 @@
 [六十七.将字符串转成整形](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test67.java)
 
 [六十八.树中两个节点的最低公共祖先](https://github.com/Songnytu/-offer--/blob/master/src/main/java/jianzhioffer7/test68.java)
+
+[宣讲会笔试遇到的算法题](https://github.com/Songnytu/-offer--/blob/master/other_algorithm.md)
