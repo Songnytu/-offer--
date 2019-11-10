@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdb434da-72e9-43f9-a628-b3aeac4c56ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cdb434da-72e9-43f9-a628-b3aeac4c56ba" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jianzhioffer5/test44.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="874">
+            <state relative-caret-position="828">
               <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#221#222#0" expanded="true" />
@@ -67,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -102,7 +100,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/jianzhioffer6/test50.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="805">
+            <state relative-caret-position="759">
               <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
               <folding>
                 <element signature="e#209#210#0" expanded="true" />
@@ -174,11 +172,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2071" />
-    <option name="y" value="482" />
-    <option name="width" value="1491" />
-    <option name="height" value="984" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="1943" />
+    <option name="height" value="1043" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -186,23 +184,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="-offer--" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="-offer--" type="2674bda8:ScopeViewTreeModel$GroupNode" />
             </path>
             <path>
               <item name="-offer--" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="target" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="-offer--" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="-offer--" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="-offer--" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="-offer--" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="-offer--" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="java" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -312,17 +323,17 @@
       <workItem from="1571370808675" duration="36000" />
       <workItem from="1571374678033" duration="155000" />
       <workItem from="1571374841363" duration="778000" />
+      <workItem from="1573131259621" duration="25000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5854000" />
+    <option name="totallyTimeSpent" value="5879000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2021" y="440" width="994" height="656" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3482906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26919967" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -679,7 +690,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jianzhioffer5/test44.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
+        <state relative-caret-position="828">
           <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="e#221#222#0" expanded="true" />
@@ -692,6 +703,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhioffer5/test46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer濠.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -718,7 +750,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/jianzhioffer6/test50.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="805">
+        <state relative-caret-position="759">
           <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
           <folding>
             <element signature="e#209#210#0" expanded="true" />
@@ -727,31 +759,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/jianzhioffer5/test46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/剑指offer濠.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
