@@ -21,7 +21,7 @@ public class test60 {
     public static List<Map.Entry<Integer,Double>> test(int n){
         //骰子只有6个点数
         final int face = 6;
-        //骰子出现总的情况数
+        //骰子点数总和的情况数 1,2,3.....6*n。
         final int pointNum = face * n;
         //横坐标为x个骰子，纵坐标y表示骰子的和,[x][y]表示x个骰子的点数为y的情况次数。
         long[][] dp = new long[n+1][pointNum+1];
